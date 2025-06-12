@@ -1,2 +1,4 @@
 ceci est un essai de phrase dans un fichier texte
 et hop une deuxième ligne
+et hop une deuxième ligne
+encore un essai dans le fichier test
